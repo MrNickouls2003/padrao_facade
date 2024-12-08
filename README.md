@@ -1,0 +1,1 @@
+# padrao_facade
